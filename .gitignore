@@ -2,3 +2,7 @@ __pycache__
 .env
 .learn
 .jpg
+# Modelos entrenados
+*.keras
+*.h5
+models/
